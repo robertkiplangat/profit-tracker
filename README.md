@@ -1,0 +1,3 @@
+# Profit Tracker
+
+This is a profit tracker program designed specifically for **small-scale traders**. It helps them easily monitor their income and expenses, providing real-time insights into their financial performance. By simplifying the process of tracking profits and losses, this program empowers traders to make informed business decisions and improve their profitability. With user-friendly features and tailored functionalities, it ensures that even those with limited financial expertise can effectively manage their finances.
